@@ -1,0 +1,39 @@
+name: Rotate README Quote
+
+on:
+  schedule:
+    - cron: "0 12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  rotate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pick a random quote and update README
+        run: |
+          QUOTE=$(shuf -n 1 .github/quotes.txt)
+          python3 - "$QUOTE" <<'EOF'
+          import re, sys
+          quote = sys.argv[1]
+          with open("README.md", encoding="utf-8") as f:
+              content = f.read()
+          new_content = re.sub(
+              r"<!--QUOTE:START-->.*?<!--QUOTE:END-->",
+              f"<!--QUOTE:START-->{quote}<!--QUOTE:END-->",
+              content,
+              flags=re.DOTALL,
+          )
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(new_content)
+          EOF
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: rotate README quote"
+          file_pattern: README.md

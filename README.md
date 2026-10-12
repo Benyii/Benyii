@@ -22,80 +22,58 @@
 
 ---
 
-## 🇬🇧 About Me
+## 🖥️ whoami
 
-I'm a **25-year-old Full Stack Developer**, **DevOps enthusiast**, and **Software Engineer**, graduate of **Computer Engineering at Duoc UC**. I'm passionate about everything that involves technology — and cats, obviously.
+```bash
+$ whoami
+Benjamín "Benyii" Aceituno — 26 y/o · Full Stack Dev · DevOps · VTuber 🎭
 
-I work across the full software lifecycle: from database and API design to polished user interfaces and automated deployments. Outside of code, I stream on Twitch as a **VTuber** 🎭.
+$ cat about.txt
+EN  Computer Engineer (Duoc UC). Worked in telecom, now in mining. In short,
+    I do it all: databases, APIs, interfaces and the pipeline that deploys
+    it, then go live on Twitch like the tests passed on the first try.
+    Currently leveling up in Cybersecurity. Totally owned by my cats.
 
-- 🎓 **Computer Engineering** — Duoc UC
-- 🏢 Experience in **telecommunications** companies · Currently working in the **mining** industry
-- 🔭 Currently building full-stack web applications and cloud infrastructure
-- 🌱 Currently focused on learning **Cybersecurity** and implementing **CI/CD flows** for automation
-- 🎭 VTuber & Twitch Streamer at **BenyiiVT**
-- 🕹️ Admin & developer of **RAGEMP servers for GTA V** — JavaScript, C# & Laravel
-- 🖥️ Desktop app development & VPS server configuration
-- 🐱 Cat person. Non-negotiable.
-- 💬 Ask me about web development, REST APIs, QA or database architecture
+ES  Ingeniero en Informática (Duoc UC). Trabajé en telecomunicaciones, hoy en
+    minería. En resumen, hago de todo: bases de datos, APIs, interfaces y el pipeline
+    que despliega todo eso, y después hago stream como si hubiera pasado los test a la primera. 
+    Aprendiendo Ciberseguridad. Y soy de total propiedad de mis gatos.
 
----
-
-## 🇪🇸 Sobre mí
-
-Soy **Benjamín, 25 años**, **Full Stack Developer**, entusiasta de **DevOps** e **Ingeniero de Software**, egresado de **Ingeniería en Informática en Duoc UC**. Me apasiona todo lo que involucre tecnología — y los gatos, obviamente.
-
-Trabajo en todo el ciclo de vida del software: desde diseñar bases de datos y APIs hasta crear interfaces de usuario y automatizar despliegues. Fuera del código, hago stream en Twitch como **VTuber** 🎭.
-
-- 🎓 **Ingeniería en Informática** — Duoc UC
-- 🏢 Experiencia en empresas de **telecomunicaciones** · Actualmente en la industria **minera**
-- 🔭 Actualmente construyendo aplicaciones web full-stack e infraestructura en la nube
-- 🌱 Actualmente enfocado en aprender **Ciberseguridad** y aplicar flujos **CI/CD** para automatización
-- 🎭 VTuber & Streamer en Twitch como **BenyiiVT**
-- 🕹️ Admin y desarrollador de **servidores RAGEMP para GTA V** — JavaScript, C# y Laravel
-- 🖥️ Desarrollo de apps de escritorio y configuración de servidores VPS
-- 🐱 Amante de los gatos. Sin negociación.
-- 💬 Pregúntame sobre desarrollo web, APIs REST, QA o arquitectura de bases de datos
+$ ls -la ./currently
+🔭 building full-stack apps + cloud infra
+🌱 learning Cybersecurity, automating everything with CI/CD
+🎭 VTuber & streamer at BenyiiVT on Twitch
+🕹️ former admin/dev of GTA World RP — JS, C#, Laravel
+💬 ask me about web dev, REST APIs, QA or DB design
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🌐 Frontend & Templating
+### ⚙️ Backend — my strong suit
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</p>
+
+### 🌐 Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Handlebars-FF6600?style=for-the-badge&logo=handlebarsdotjs&logoColor=white" />
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
-</p>
-
-### 🖥️ Desktop Apps
-<p>
-  <img src="https://img.shields.io/badge/.NET%20Desktop-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java%20Desktop-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
 ### 🗄️ Databases
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
@@ -103,39 +81,38 @@ Trabajo en todo el ciclo de vida del software: desde diseñar bases de datos y A
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/VPS%20Servers-00B4D8?style=for-the-badge&logo=serverfault&logoColor=white" />
 </p>
 
-### 🧪 QA & Security
+### 🛡️ QA & DevSecOps
 <p>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white" />
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab%20Security-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
 </p>
 
-### 📐 Methodologies
+> Worked on a DevSecOps initiative at **Falabella Chile**, detecting and mitigating security risks across GitLab repositories.
+
+### 📐 Methodologies & Creative
 <p>
   <img src="https://img.shields.io/badge/Agile-009FDA?style=for-the-badge&logo=agile&logoColor=white" />
   <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" />
-</p>
-
-### 🎨 Creative Tools
-<p>
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Sony%20Vegas-1A1A2E?style=for-the-badge&logo=vegas&logoColor=white" />
 </p>
 
 ---
 
-## 🕹️ RAGEMP — GTA V Server Dev
+## 🕹️ GTA V Roleplay Servers
 
-> Admin and developer of custom **RAGEMP servers for GTA V**. Worked on server-side scripting, game logic, and backend integrations using JavaScript, C# and Laravel.
+> Admin, Management & Lead Developer at **GTA World en Español** (2023 – early 2025). Worked on server-side scripting, game logic, backend integrations and web — using JavaScript, C# and Laravel.
 
 ---
 
@@ -195,6 +172,9 @@ Trabajo en todo el ciclo de vida del software: desde diseñar bases de datos y A
 
 <div align="center">
 
-*"Clean code always looks like it was written by someone who cares."*
+```
+$ echo $?
+<!--QUOTE:START-->0   # clean code always looks like someone cared — also, feed the cats<!--QUOTE:END-->
+```
 
 </div>

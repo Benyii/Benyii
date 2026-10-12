@@ -1,0 +1,10 @@
+0   # clean code always looks like someone cared — also, feed the cats
+0   # it works on my machine, which is the only one that matters right now
+1   # committed at 2am, regretted at 9am
+127 # command not found: motivation
+0   # git commit -m "fix" — the most honest message in the history of software
+0   # stream is live, the build is... let's not talk about the build
+0   # 99 little bugs in the code, 99 little bugs... take one down, 127 little bugs in the code
+0   # deployed on a Friday — admin, dev and brave, apparently
+1   # merge conflict with my sleep schedule
+0   # sudo feed-cats --priority=critical
