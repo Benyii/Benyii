@@ -174,7 +174,7 @@ $ ls -la ./currently
 
 ```
 $ echo $?
-<!--QUOTE:START-->1   # merge conflict with my sleep schedule<!--QUOTE:END-->
+<!--QUOTE:START-->1   # committed at 2am, regretted at 9am<!--QUOTE:END-->
 ```
 
 </div>
