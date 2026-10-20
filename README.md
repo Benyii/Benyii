@@ -174,7 +174,7 @@ $ ls -la ./currently
 
 ```
 $ echo $?
-<!--QUOTE:START-->1   # committed at 2am, regretted at 9am<!--QUOTE:END-->
+<!--QUOTE:START-->0   # it works on my machine, which is the only one that matters right now<!--QUOTE:END-->
 ```
 
 </div>
