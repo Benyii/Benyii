@@ -174,7 +174,7 @@ $ ls -la ./currently
 
 ```
 $ echo $?
-<!--QUOTE:START-->127 # command not found: motivation<!--QUOTE:END-->
+<!--QUOTE:START-->0   # 99 little bugs in the code, 99 little bugs... take one down, 127 little bugs in the code<!--QUOTE:END-->
 ```
 
 </div>
