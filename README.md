@@ -174,7 +174,7 @@ $ ls -la ./currently
 
 ```
 $ echo $?
-<!--QUOTE:START-->0   # clean code always looks like someone cared — also, feed the cats<!--QUOTE:END-->
+<!--QUOTE:START-->1   # merge conflict with my sleep schedule<!--QUOTE:END-->
 ```
 
 </div>
