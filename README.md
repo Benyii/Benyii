@@ -174,7 +174,7 @@ $ ls -la ./currently
 
 ```
 $ echo $?
-<!--QUOTE:START-->1   # merge conflict with my sleep schedule<!--QUOTE:END-->
+<!--QUOTE:START-->0   # sudo feed-cats --priority=critical<!--QUOTE:END-->
 ```
 
 </div>
