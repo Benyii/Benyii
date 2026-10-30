@@ -174,7 +174,7 @@ $ ls -la ./currently
 
 ```
 $ echo $?
-<!--QUOTE:START-->1   # merge conflict with my sleep schedule<!--QUOTE:END-->
+<!--QUOTE:START-->0   # git commit -m "fix" — the most honest message in the history of software<!--QUOTE:END-->
 ```
 
 </div>
