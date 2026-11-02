@@ -174,7 +174,7 @@ $ ls -la ./currently
 
 ```
 $ echo $?
-<!--QUOTE:START-->0   # deployed on a Friday — admin, dev and brave, apparently<!--QUOTE:END-->
+<!--QUOTE:START-->0   # git commit -m "fix" — the most honest message in the history of software<!--QUOTE:END-->
 ```
 
 </div>
