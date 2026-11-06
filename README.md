@@ -174,7 +174,7 @@ $ ls -la ./currently
 
 ```
 $ echo $?
-<!--QUOTE:START-->0   # stream is live, the build is... let's not talk about the build<!--QUOTE:END-->
+<!--QUOTE:START-->1   # committed at 2am, regretted at 9am<!--QUOTE:END-->
 ```
 
 </div>
