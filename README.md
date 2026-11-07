@@ -174,7 +174,7 @@ $ ls -la ./currently
 
 ```
 $ echo $?
-<!--QUOTE:START-->1   # committed at 2am, regretted at 9am<!--QUOTE:END-->
+<!--QUOTE:START-->0   # sudo feed-cats --priority=critical<!--QUOTE:END-->
 ```
 
 </div>
