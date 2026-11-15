@@ -174,7 +174,7 @@ $ ls -la ./currently
 
 ```
 $ echo $?
-<!--QUOTE:START-->0   # deployed on a Friday — admin, dev and brave, apparently<!--QUOTE:END-->
+<!--QUOTE:START-->127 # command not found: motivation<!--QUOTE:END-->
 ```
 
 </div>
