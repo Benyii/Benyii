@@ -174,7 +174,7 @@ $ ls -la ./currently
 
 ```
 $ echo $?
-<!--QUOTE:START-->127 # command not found: motivation<!--QUOTE:END-->
+<!--QUOTE:START-->0   # stream is live, the build is... let's not talk about the build<!--QUOTE:END-->
 ```
 
 </div>
