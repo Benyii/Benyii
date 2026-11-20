@@ -174,7 +174,7 @@ $ ls -la ./currently
 
 ```
 $ echo $?
-<!--QUOTE:START-->0   # stream is live, the build is... let's not talk about the build<!--QUOTE:END-->
+<!--QUOTE:START-->0   # deployed on a Friday — admin, dev and brave, apparently<!--QUOTE:END-->
 ```
 
 </div>
